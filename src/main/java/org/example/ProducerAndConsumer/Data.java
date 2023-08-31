@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ProducerAndConsumer;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;

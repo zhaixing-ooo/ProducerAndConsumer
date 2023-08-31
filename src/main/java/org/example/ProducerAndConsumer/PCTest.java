@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ProducerAndConsumer;
 
 import java.util.concurrent.BlockingDeque;
 import java.util.concurrent.ExecutorService;
